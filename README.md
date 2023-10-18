@@ -92,6 +92,18 @@ Before using this script, ensure that you have met the following requirements:
    else:
        logger.info("Successful Login")
    ```
+   
+4. Run the script:
+
+   ```python
+   python login_scraper.py
+   ```
+
+   Please make sure you have the appropriate web driver installed for your selected browser.
+
+6. The script will prompt you for the URL of the login page, username list, and password list.
+
+7. The script will automate login attempts using the provided username and password lists. If it successfully logs in, it will display the combination of the correct username and password.
 
 ---
 
