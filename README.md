@@ -123,6 +123,6 @@ The author of this script is not responsible for any misuse of this tool. Users 
 
 ## Author
 
-This tool was developed by Iftekhar Tahir.
+This tool was developed by [Iftekhar Tahir](https://github.com/iftekharmickey).
 
 Enjoy using the Selenium-Login-Assault! For questions, issues, or feedback, don't hesitate to contact me at iftekhar.tahir@proton.me.
